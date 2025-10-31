@@ -1,0 +1,11 @@
+# Core Deep Learning Framework (TensorFlow/Keras)
+tensorflow>=2.0.0
+keras
+
+# Scientific Computing and Data Handling
+numpy
+pandas
+matplotlib
+
+# Jupyter Notebook dependencies (for local running and visualization)
+jupyterlab
